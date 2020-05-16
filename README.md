@@ -3,4 +3,4 @@
 
 # 首页展示
 
-![image](https://github.com/Ciketoom/eshop-pic/blob/master/travel/shouye.gif?imageView/2/w/450/q/90)
+![image](https://github.com/Ciketoom/eshop-pic/blob/master/travel/shouye.gif?imageView/2/w/200/q/300)
